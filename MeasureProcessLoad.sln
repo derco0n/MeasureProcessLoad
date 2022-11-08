@@ -5,16 +5,27 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureProcessLoad", "MeasureProcessLoad\MeasureProcessLoad.csproj", "{B57CE2A1-DB72-4517-B0F4-7655734364EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co0nUtilZ", "coonutils\Co0nUtilZ\Co0nUtilZ.csproj", "{4DE7935F-7954-4329-B40A-E0F03762D696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		x64|Any CPU = x64|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B57CE2A1-DB72-4517-B0F4-7655734364EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B57CE2A1-DB72-4517-B0F4-7655734364EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B57CE2A1-DB72-4517-B0F4-7655734364EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B57CE2A1-DB72-4517-B0F4-7655734364EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57CE2A1-DB72-4517-B0F4-7655734364EF}.x64|Any CPU.ActiveCfg = Release|Any CPU
+		{B57CE2A1-DB72-4517-B0F4-7655734364EF}.x64|Any CPU.Build.0 = Release|Any CPU
+		{4DE7935F-7954-4329-B40A-E0F03762D696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE7935F-7954-4329-B40A-E0F03762D696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE7935F-7954-4329-B40A-E0F03762D696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE7935F-7954-4329-B40A-E0F03762D696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE7935F-7954-4329-B40A-E0F03762D696}.x64|Any CPU.ActiveCfg = x64|Any CPU
+		{4DE7935F-7954-4329-B40A-E0F03762D696}.x64|Any CPU.Build.0 = x64|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
