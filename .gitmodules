@@ -1,0 +1,3 @@
+[submodule "coonutils"]
+	path = coonutils
+	url = https://github.com/derco0n/coonutils.git

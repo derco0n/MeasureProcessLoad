@@ -1,0 +1,8 @@
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\bin\Debug\MeasureProcessLoad.exe.config
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\bin\Debug\MeasureProcessLoad.exe
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\bin\Debug\MeasureProcessLoad.pdb
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.csproj.AssemblyReference.cache
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.csproj.SuggestedBindingRedirects.cache
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.csproj.CoreCompileInputs.cache
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.exe
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.pdb
