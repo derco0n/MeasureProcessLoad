@@ -6,3 +6,6 @@ C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\Measu
 C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.csproj.CoreCompileInputs.cache
 C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.exe
 C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.pdb
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\bin\Debug\Co0nUtilZ.dll
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\bin\Debug\Co0nUtilZ.pdb
+C:\Users\md14\source\repos\MeasureProcessLoad\MeasureProcessLoad\obj\Debug\MeasureProcessLoad.csproj.CopyComplete

@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\coonutils\Co0nUtilZ\Co0nUtilZ.csproj">
+      <Project>{4de7935f-7954-4329-b40a-e0f03762d696}</Project>
+      <Name>Co0nUtilZ</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
